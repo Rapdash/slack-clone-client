@@ -1,0 +1,7 @@
+.container {
+  width: 75vw;
+  position: fixed;
+  right: 0;
+  height: 100vh;
+  background-color: gray;
+}
