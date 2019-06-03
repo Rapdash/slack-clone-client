@@ -3,7 +3,7 @@ import styles from './styles.module.css';
 
 const Navigation = () => (
   <div className={styles.container}>
-    <div className=""></div>
+    <div className={styles.header}></div>
   </div>
 );
 

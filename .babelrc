@@ -4,8 +4,8 @@
     "@babel/preset-react"
   ],
   "plugins": [
-    ["react-css-modules", {
-      "webpackHotModuleReloading": true
-    }],
+    // ["react-css-modules", {
+    //   "webpackHotModuleReloading": true
+    // }],
   ]
 }

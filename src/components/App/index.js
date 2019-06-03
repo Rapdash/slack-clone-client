@@ -8,7 +8,7 @@ import {
 import Pages from '../Pages';
 import Navigation from '../Navigation';
 
-import './styles.css';
+// import styles from 'styles.module.css';
 
 const App = () => (
   <Router>

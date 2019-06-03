@@ -1,7 +1,16 @@
 .container {
-  background-color: aqua;
+  background-image: linear-gradient(darkgray, black);
   position: fixed;
   left: 0;
   width: 25vw;
   height: 100vh;
+}
+
+.header {
+  background-color: black;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 25vw;
+  height: 10vh;
 }
