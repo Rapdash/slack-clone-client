@@ -1,3 +1,3 @@
-import NoMatch from './NoMatch';
+import Home from './Home';
 
-export default { NoMatch };
+export default { Home };
